@@ -117,3 +117,13 @@ Supply-Chain-Analytics/
 ├── supplychain.pbix
 │
 └── README.md
+## Power BI Dashboard
+
+### Executive Overview
+![Executive Overview](executive-overview.png)
+
+### Product Analysis
+![Product Analysis](Screenshot%202026-09-08%20214207.png)
+
+### Delivery Analysis
+![Delivery Analysis](Screenshot%202026-09-08%20214222.png)
