@@ -121,9 +121,18 @@ Supply-Chain-Analytics/
 ├── Screenshot 2026-09-08 214222.png
 │
 └── README.md
+```
 
-**That's it.** Do not add anything else after that yet.
+## Power BI Dashboard
 
-Then save/commit the README.
+### Executive Overview
 
-After you commit it, send me a screenshot of the README page. I'll check it before you move to the next step.
+![Executive Overview](executive-overview.png)
+
+### Product Analysis
+
+![Product Analysis](Screenshot%202026-09-08%20214207.png)
+
+### Delivery Analysis
+
+![Delivery Analysis](Screenshot%202026-09-08%20214222.png)
