@@ -17,10 +17,10 @@ The project uses Python for data understanding and preprocessing, SQL for data a
 
 ## Project Workflow
 
-Dataset
-→ Python Data Understanding & Preprocessing
-→ SQL Analysis
-→ Power BI Visualization
+Dataset  
+→ Python Data Understanding & Preprocessing  
+→ SQL Analysis  
+→ Power BI Visualization  
 → Business Insights
 
 ## Dataset
@@ -116,15 +116,8 @@ Supply-Chain-Analytics/
 │
 ├── supplychain.pbix
 │
+├── executive-overview.png
+├── Screenshot 2026-09-08 214207.png
+├── Screenshot 2026-09-08 214222.png
+│
 └── README.md
-## Power BI Dashboard
-
-### Executive Overview
-![Executive Overview](executive-overview.png)
-
-
-### Product Analysis
-![Product Analysis](Screenshot%202026-09-08%20214207.png)
-
-### Delivery Analysis
-![Delivery Analysis](Screenshot%202026-09-08%20214222.png)
