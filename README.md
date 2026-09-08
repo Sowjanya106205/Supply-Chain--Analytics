@@ -121,3 +121,9 @@ Supply-Chain-Analytics/
 ├── Screenshot 2026-09-08 214222.png
 │
 └── README.md
+
+**That's it.** Do not add anything else after that yet.
+
+Then save/commit the README.
+
+After you commit it, send me a screenshot of the README page. I'll check it before you move to the next step.
