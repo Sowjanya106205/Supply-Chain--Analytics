@@ -122,6 +122,7 @@ Supply-Chain-Analytics/
 ### Executive Overview
 ![Executive Overview](executive-overview.png)
 
+
 ### Product Analysis
 ![Product Analysis](Screenshot%202026-09-08%20214207.png)
 
